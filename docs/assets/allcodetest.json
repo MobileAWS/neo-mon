@@ -1,0 +1,51 @@
+{
+  "name": "AllCode Test",
+  "pollTime": "5000",
+  "sites": [
+    {
+      "protocol": "http",
+      "url": "54.210.150.207",
+      "location": "United States",
+      "address": "54.210.150.207",
+      "port": "10332",
+      "locale": "us",
+      "type": "RPC"
+    },
+    {
+      "protocol": "http",
+      "url": "ec2-54-88-239-37.compute-1.amazonaws.com",
+      "location": "United States",
+      "address": "54.88.239.37",
+      "port": "10332",
+      "locale": "us",
+      "type": "RPC"
+    },
+    {
+      "protocol": "http",
+      "url": "ec2-54-89-238-202.compute-1.amazonaws.com",
+      "location": "United States",
+      "address": "54.89.238.202",
+      "port": "10332",
+      "locale": "us",
+      "type": "RPC"
+    },
+    {
+      "protocol": "http",
+      "url": "ec2-54-172-121-105.compute-1.amazonaws.com",
+      "location": "United States",
+      "address": "54.172.121.105",
+      "port": "10332",
+      "locale": "us",
+      "type": "RPC"
+    },
+    {
+      "protocol": "http",
+      "url": "ec2-35-170-246-74.compute-1.amazonaws.com",
+      "location": "United States",
+      "address": "35.170.246.74",
+      "port": "10332",
+      "locale": "us",
+      "type": "RPC"
+    }
+  ]
+}

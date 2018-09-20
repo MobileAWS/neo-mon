@@ -16,6 +16,9 @@
         var cacheNetworkStats = {};
 
         vm.networkList = {
+            allcodetest: {
+                label: 'AllCode Test'
+            },
             mainnet: {
                 label: 'MainNet'
             },
@@ -25,9 +28,9 @@
         };
 
         vm.changeNetwork = changeNetwork;
-        vm.currentNetwork = 'MainNet';
+        vm.currentNetwork = 'AllCode Test';
 
-        changeNetwork('mainnet');
+        changeNetwork('allcodetest');
 
         function loadConfiguration (id) {
 
