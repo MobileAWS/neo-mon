@@ -4,9 +4,9 @@
   "sites": [
     {
       "protocol": "http",
-      "url": "ec2-54-210-150-207.compute-1.amazonaws.com",
+      "url": "alpha.neo.test.allcode.com",
       "location": "United States",
-      "address": "54.210.150.207",
+      "address": "18.235.52.38",
       "port": "10332",
       "locale": "us",
       "type": "RPC"
