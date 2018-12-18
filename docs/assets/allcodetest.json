@@ -13,9 +13,9 @@
     },
     {
       "protocol": "http",
-      "url": "ec2-54-88-239-37.compute-1.amazonaws.com",
+      "url": "ec2-18-233-99-235.compute-1.amazonaws.com",
       "location": "United States",
-      "address": "54.88.239.37",
+      "address": "18.233.99.235",
       "port": "10332",
       "locale": "us",
       "type": "RPC"
